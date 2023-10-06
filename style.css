@@ -1,0 +1,7 @@
+.img{
+    object-fit: cover;
+}
+
+.carousel-item > img{
+    height: 400px;
+}
